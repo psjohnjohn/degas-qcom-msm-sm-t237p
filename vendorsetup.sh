@@ -1,0 +1,3 @@
+add_lunch_combo cm_degasltespr-userdebug
+add_lunch_combo cm_degasltespr-user
+add_lunch_combo cm_degasltespr-eng
